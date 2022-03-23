@@ -17,3 +17,4 @@ This is a simple Express API for managing TODO items. It provides endpoints for 
 -  PostgreSQL
 -  Sequelize (ORM)
 -  TypeScript
+
